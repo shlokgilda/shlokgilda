@@ -18,8 +18,8 @@ User Privacy, Machine Learning, Social Engineering, Vulnerability Detection and 
 ### Currently working on :ghost:
 ```console
 shlok@VM:~$ cat active_projects
-* Automated detection of unhealthy conversations on online platforms using state of the art mmachine learning algorithms.
-* Malicious behavior and user engagement analysis of malware infected COVID-19 Android applications using state of the art mmachine learning algorithms.
+* Automated detection of unhealthy conversations on online platforms using machine learning algorithms.
+* Malicious behavior and user engagement analysis of malware infected COVID-19 Android applications using machine learning algorithms.
 ```
 
 ### Currently learning :relaxed:
