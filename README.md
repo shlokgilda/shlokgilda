@@ -29,15 +29,6 @@ shlok@VM:~$ cat active_courses
 ```
 
 ### How to reach me
-```console
-shlok@VM:~$ cat contact_details
-* [Personal website](https://shlokgilda.github.io/)
-* [LinkedIn](https://www.linkedin.com/in/shlok-gilda/)
-* [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en)
-* gildashlok@hotmail.com
-```
-
-### How to reach me
 * [Personal website](https://shlokgilda.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/shlok-gilda/)
 * [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en)
