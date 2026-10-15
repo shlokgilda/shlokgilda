@@ -60,7 +60,6 @@ Before that, my Ph.D. asked a question that sounds soft but turned out to matter
 ```
 publications  ██████████████  14 peer-reviewed papers
 patents       ██              1 US patent  +  1 provisional
-best paper    █               SocialSec 2023
 ```
 
 📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en) and on [my website](https://shlokgilda.github.io/#work).
