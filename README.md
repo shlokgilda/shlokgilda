@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  ____  _   _ _     ___  _  __   ____ ___ _     ____    _
 / ___|| | | | |   / _ \| |/ /  / ___|_ _| |   |  _ \  / \
@@ -6,95 +8,114 @@
 |____/|_| |_|_____\___/|_|\_\  \____|___|_____|____/_/   \_\
 ```
 
-# `$ whoami`
+<a href="https://shlokgilda.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Research+Scientist+%40+Meta;Ph.D.+in+Computer+Science+%E2%80%94+University+of+Florida;NLP+%C3%97+Cybersecurity;Open-source+supply+chain+security;Evaluating+ML+agents+that+make+real+decisions" alt="Typing intro" />
+</a>
 
-PhD Candidate @ University of Florida | Graduating May 2026
-Research: **NLP × Cybersecurity** | Open-Source Security | Misinformation Detection
+<br/>
 
-I build ML systems that keep software safe and detect when humans get toxic online. Currently working on understanding how communication dynamics shape vulnerability management in open-source projects (because turns out, the way devs talk to each other matters for security).
+[![Website](https://img.shields.io/badge/shlokgilda.github.io-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://shlokgilda.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/shlok-gilda/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-0d1117?style=for-the-badge&logo=googlescholar&logoColor=58A6FF)](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en)
+[![CV](https://img.shields.io/badge/CV-0d1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF)](https://shlokgilda.github.io/assets/uploads/Shlok_Gilda_CV.pdf)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF)](mailto:gildashlok@hotmail.com)
+
+</div>
+
+---
+
+## `$ whoami`
+
+**Research Scientist @ Meta** · Ph.D. in Computer Science, University of Florida (2026)
+**NLP × Cybersecurity** · Open-Source Supply Chain Security · Trustworthy AI Evaluation
+
+At Meta, I own decision quality and observability for an ML agent that verifies advertiser identity at scale. That means building the evaluation harness behind it: precision/recall regression tests against human-labeled ground truth, and production dashboards tracking error rates and business impact.
+
+Before that, my Ph.D. asked a question that sounds soft but turned out to matter: **does the way developers talk to each other change how secure their software is?** (Short answer: yes.)
+
+---
+
+## `$ cat now.txt`
+
+```diff
++ Research Scientist @ Meta: evaluation & observability for ML verification agents
++ PC member, USENIX Security 2027
++ Under review @ ICSE 2027: two papers on dependency-vulnerability remediation in npm
++ Under review @ ARR: OSS-Stance, a stance-detection benchmark for OSS discussions
+```
 
 ---
 
 ## `$ cat research.log`
 
-**Thesis:** *How Communication Dynamics Shape Vulnerability Management in Open-Source Software*
+**Dissertation:** *How Communication Dynamics Shape Vulnerability Management in Open-Source Software*. Advised by Dr. Bonnie Dorr.
 
-**Current Projects:**
-- 🔍 Analyzing OSS repositories to predict vulnerabilities through developer communication patterns
-- 🧠 Building neuro-symbolic frameworks for validated knowledge graph extraction from Cyber Threat Intel
-- 🎯 Detecting subtle toxicity in online conversations (the kind humans miss but ML catches)
+| | |
+|---|---|
+| 🔍 **FORCE** | Framework for Open-source Risk and Community Evaluation: correlates how vulnerabilities evolve over time with community signals (sentiment, toxicity, stance, outrage) |
+| 🧠 **CBPE** | Cyber Behavior Pattern Extractor: a neuro-symbolic framework that makes LLMs more factually reliable on Cyber Threat Intelligence and builds temporally-aware knowledge graphs (IARPA-funded) |
+| 📦 **Supply chain** | Measuring whether npm vulnerability fixes actually *stick*, and bounding false CVE-to-dependency attributions without an oracle |
+| 💬 **Online harms** | Detecting subtle toxicity and studying how people engage with misinformation |
 
-**Published Work:** 8 conference papers • 1 US Patent • [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en)
+```
+publications  ██████████████  14 peer-reviewed papers
+patents       ██              1 US patent  +  1 provisional
+best paper    █               SocialSec 2023
+```
 
-**Recent Highlight:** Co-first author on Best Paper Award at SocialSec 2023
-*"People Still Care About Facts: Twitter Users Engage More with Factual Discourse than Misinformation"*
+📚 Full list on [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en) and on [my website](https://shlokgilda.github.io/#work).
 
 ---
 
-## `$ git log --industry-experience`
+## `$ git log --oneline career`
 
-**AI Resident** @ SandboxAQ (Jan–May 2024)
-Built ML pipeline classifying cryptographic strengths across 300K+ encrypted files
+```
+* 2026-06  (HEAD -> main)  Research Scientist        @ Meta
+* 2021-01                  Graduate Research Asst.   @ University of Florida  [Ph.D. '26, M.Sc. '22]
+|\
+| * 2024-01                AI Resident               @ SandboxAQ
+| * 2023-06                Research Intern           @ Accenture Security Labs
+|/
+* 2018-06                  Software Engineer         @ Ost → Pepo → Moxie
+* 2017-06                  Research Intern           @ IBM India Software Labs
+* 2014     (tag: v0.1)     B.E. Computer Engineering @ University of Pune
+```
 
-**Research Intern** @ Accenture Security Labs (Summer 2023)
-Analyzed 100K+ commits across 20 OSS repos to identify malicious developer patterns
+<details>
+<summary><b>expand commit messages</b></summary>
 
-**Software Engineer** @ Moxie.xyz (2020)
-Full-stack: OAuth 2.0 integration, video processing with FFMPEG, 99.9% data availability with Cassandra
+- **Meta:** decision quality, observability, and evaluation for an advertiser-verification ML agent
+- **SandboxAQ:** ML pipeline classifying cryptographic strength across 8 algorithms on 300K+ encrypted files (0.79 AUC)
+- **Accenture Security Labs:** analyzed 100K+ commits across 20 OSS repos to find malicious developer patterns
+- **Ost → Pepo → Moxie:** one founding team, three pivots; Ethereum token platform API at 500+ tx/s, feed ranking (+35% engagement), real-time video and chat
+- **IBM India Software Labs:** Hyperledger Fabric IAM with zero-knowledge authentication; co-authored a US patent on identity attribute trust scoring
 
-**Software Engineer** @ Pepo.com (2019–2020)
-Personalized feed algorithms, WebSockets for real-time chat, boosted engagement 35%
-
-**Software Engineer** @ Ost.com (2018–2020)
-Blockchain APIs on Ethereum, 1000+ tx/sec, sharding & smart contract user recovery
-
-**Research Intern** @ IBM India Software Labs (2017–2018)
-Co-developed Hyperledger Fabric IAM system with zero-knowledge authentication
-(Also co-authored that US Patent on identity attribute confidence scoring)
+</details>
 
 ---
 
 ## `$ ls -lh skills/`
 
 ```
-drwxr-xr-x  languages/      Python, JavaScript, C/C++, SQL, Node.JS
-drwxr-xr-x  ml_frameworks/  PyTorch, TensorFlow, Scikit-Learn, spaCy
-drwxr-xr-x  databases/      MySQL, DynamoDB, Neo4J, Cassandra
-drwxr-xr-x  research/       NLP, Graph Neural Networks, Knowledge Graphs
+drwxr-xr-x  languages/      Python  JavaScript  Node.js  C/C++  SQL
+drwxr-xr-x  ml/             PyTorch  TensorFlow  scikit-learn  spaCy  LLM evaluation
+drwxr-xr-x  data/           MySQL  DynamoDB  Neo4j  Cassandra
+drwxr-xr-x  research/       NLP  Knowledge Graphs  Neuro-symbolic AI  OSS Security
 ```
 
 ---
 
-## `$ grep -r "awards" ~/cv`
+## `$ grep -ri "award\|talk" ~/cv`
 
 - 🏆 **Best Paper Award**, SocialSec 2023
+- 🎤 *Predicting OSS Vulnerabilities Through Communication Analysis*, OpenSSF Community Day NA 2025
 - 🎟️ Travel Grant, Linux Foundation Open Source Summit 2025
-- 🎓 Student Conferenceship, ACSAC 2022
-- 🎓 Student Travel Grant, IEEE S&P 2021
-
----
-
-## `$ echo $LOOKING_FOR`
-
-**Industry research positions starting Summer 2026** in:
-- AI/ML Security
-- Open-Source Software Security
-- NLP for Cybersecurity
-- Misinformation Detection
-
----
-
-## `$ curl -X GET contact/`
-
-🌐 [shlokgilda.github.io](https://shlokgilda.github.io/)
-💼 [linkedin.com/in/shlok-gilda](https://www.linkedin.com/in/shlok-gilda/)
-📚 [Google Scholar](https://scholar.google.com/citations?user=ZJ-NR-sAAAAJ&hl=en)
-📧 shlokgilda@ufl.edu
+- 🎓 Student Conferenceship, ACSAC 2022 · Student Travel Grant, IEEE S&P 2021 · Student Grant, USENIX Enigma 2021
 
 ---
 
 ```
-> status: on the job market
-> availability: May 2026
-> fun_fact: I analyze toxic online behavior for research but I promise I'm nice IRL
+> status: shipping evals @ Meta
+> location: Menlo Park, CA
+> fun_fact: I studied toxic online behavior for my Ph.D., but I promise I'm nice IRL
 ```
