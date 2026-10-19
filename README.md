@@ -40,6 +40,7 @@ Before that, my Ph.D. asked a question that sounds soft but turned out to matter
 ```diff
 + Research Scientist @ Meta: evaluation & observability for ML verification agents
 + PC member, USENIX Security 2027
++ Reviewer, ACL Rolling Review
 + Under review @ ICSE 2027: two papers on dependency-vulnerability remediation in npm
 + Under review @ ARR: OSS-Stance, a stance-detection benchmark for OSS discussions
 ```
